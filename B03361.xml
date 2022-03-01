@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fourth humble address of several societies of baptized believers (commonly called Anabaptists) in the county of Lincoln; humbly presented to Charles the II. King of Great Brittain, &amp;c. containing their faithful representation, sober vindication, true thankfulness, peaceable and constant resolution, and humble petition, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03361</idno>
+            <idno type="STC">Wing F1687A</idno>
+            <idno type="STC">ESTC R188070</idno>
+            <idno type="EEBO-CITATION">51784554</idno>
+            <idno type="OCLC">ocm 51784554</idno>
+            <idno type="VID">174963</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03361)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174963)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2706:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fourth humble address of several societies of baptized believers (commonly called Anabaptists) in the county of Lincoln; humbly presented to Charles the II. King of Great Brittain, &amp;c. containing their faithful representation, sober vindication, true thankfulness, peaceable and constant resolution, and humble petition, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1663?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Universität Göttingen Bibliothek.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anabaptists --  Great Britain --  17th century.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:174963:1"/>
+            <!-- PDF PAGE 20 -->
+            <pb facs="tcp:174963:1"/>
+            <!-- PDF PAGE 20 -->
+            <head>THE FOURTH HUMBLE ADDRESS OF Several Societies of Baptized Believers (commonly called <hi>Anabaptiſts</hi>) in the County of <hi>Lincoln;</hi> Humbly preſented to Charles the II. King of Great Brittain, &amp;c.</head>
+            <head type="sub">Containing Their faithful REPRESENTATION, ſober VINDICATION, true THANKFULNES, Peaceable and conſtant RESOLUTION, and Humble PETITION, <hi>&amp;c.</hi>
+            </head>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>May it pleaſe your Majesty,</salute>
+                  </opener>
+                  <p>VVE are not ignorant of the great and ſcandalous Reproach<g ref="char:EOLhyphen"/>es, which as well by our Neighbours, as by Publick In<g ref="char:EOLhyphen"/>telligence, hath of late been thrown upon us, in com<g ref="char:EOLhyphen"/>mon with all that are denominated <hi>Anabaptiſts</hi> in this Nation, as if we were acceſſary to ſome Tragical undertaking, againſt your Majeſties Perſon and Government, which wicked and indeed altogether Un<g ref="char:EOLhyphen"/>chriſtian-like Practiſes, we have in divers Petitional Remonſtrances, de<g ref="char:EOLhyphen"/>clared our utter diſaffection to, and deteſtation of.</p>
+                  <p>And moreover, theſe rumoured Rebellions have not onely been laid upon us in a way of Scandal and Reproach, but we are alſo expoſed upon this ac<g ref="char:EOLhyphen"/>count, to many other Indignities, Loſſes, and Inconveniencies, by Impri<g ref="char:EOLhyphen"/>ſonments, and other like Grievances, as if we had indeed been criminal, in thoſe ſo much by us deſpiſed Projects.</p>
+                  <p>The conſideration of which Grievances, May it pleaſe your Majeſty, to<g ref="char:EOLhyphen"/>gether with the Remembrance of your Worthy Princely Promiſes, and Clemency to us vouchſafed in times paſt, in order to our Eaſe and Protecti<g ref="char:EOLhyphen"/>on from thoſe Oppreſſions, and very grievous Impoſitions, by ſome of your Majeſties Deputies, exerciſed upon us (which we deſire to mention here with ſuch a grateful mind, due and humble thankfulneſs, as becomes peace<g ref="char:EOLhyphen"/>able and faithful Subjects, in that behalf) as alſo the clear evidence of our own Conſciences in point of Innocency, as to the evils premiſed, had in<g ref="char:EOLhyphen"/>deed created in us, your poor ſuffering Subjects, freſh reſolutions humbly to have Remonſtrated our Sufferings to your Majeſty, as alſo to perſiſt in our wonted Importunities and Supplications, for the accompliſhment of what your Royal Self was pleaſed Verbally to Indulge unto us, when by your Cle<g ref="char:EOLhyphen"/>mency we were admitted into your Royal Preſence; yet ſo, May it pleaſe your Majeſty, as that we therein alwaies deſired to have our eyes towards Him, in whoſe hands are the hearts of Kings; and truely this our humble purpoſe was got to that maturity, as had not our Remonſtrance it ſelf been ſurprized by a Party of Horſe, and our ſelves at the ſame time Impriſoned, it might have been preſented to your Princely hands ſome Months ago.</p>
+                  <p>But even while we have ſince been waiting for an opportunity to clear our Innocency to your Majeſty and the whole Nation, we have met with your Majeſties <hi>Declaration</hi> of the 26th. of <hi>December</hi> 1662. the thorow per<g ref="char:EOLhyphen"/>uſal and conſideration whereof, hath in a meaſure turned our mournful Re<g ref="char:EOLhyphen"/>monſtrance, as it were into an Hymn of Praiſes to the Moſt High, who (we hope) hath put it ſo ſeaſonably into your Princely heart, to renew all thoſe your Royal <hi>Engagements,</hi> and <hi>Promiſes,</hi> which ſith it hath pleaſed God to bring ſo perfectly to your Majeſties Remembrance, we hope it may be an encouragement miniſtring comfort to all patient Sufferers, and of concern<g ref="char:EOLhyphen"/>ment to thoſe, who have in this reſpect, been too incredulous touching your Majeſty, which peradventure hath proceeded from their not weighing pub<g ref="char:EOLhyphen"/>lick affairs, otherwiſe than they appeared immediately to correſpond with their particular eaſe and quiet.</p>
+                  <p>But now, may it pleaſe your Majeſty, we hope that both our ſelves and others will be abundantly ſatisfied, that there was a Principle of Truth in your Royal heart, antecedent to thoſe worthy <hi>Engagements,</hi> the convincing appearance whereof, will yet more lively appear, when they ſhall branch forth themſelves in ſuch an Act, as your Majeſty hath ſo ſolemnly promi<g ref="char:EOLhyphen"/>ſed to promote, to the great content of all men certainly, ſave ſuch as have not learned to do to others as they would in the ſame caſe be done unto.</p>
+                  <p>Under your Majeſties favour, we are humbly bold to ſay thus much of your excellent <hi>Declaration,</hi> That therein is ſo much ſaid, and that with ſo much Equity, Indifferency, Reaſon and Clemency, as that we ve<g ref="char:EOLhyphen"/>rily think, no good Subject, can tell how with modeſty to deſire more.</p>
+                  <p>Whereupon we do even heartily pray unto the Father of Peace, That he would vouchſafe to continue your Majeſty in thoſe ſo acceptable Purpoſes and Reſolutions, to the advancing His own glory and the proſperity of your Majeſty, and all your peaceable and good Subjects, and to the removal and total extinguiſhing all thoſe remains of diſtruſt, which the late ſtrange, and indeed harſh Scene of affairs hath contracted in the minds of many good People in theſe Nations; inſomuch, that their eyes were more beyond the Seas, than in their own native Country, for a place whereon to reſt the ſoles of their feet.</p>
+                  <p>Finally, May it pleaſe your Majeſty, we have onely theſe things to teſti<g ref="char:EOLhyphen"/>fie and requeſt in all humility before your Majeſty <hi>(viz.)</hi> That as we have formerly declared our Reſolution (in the ſtrength of God) to live peace<g ref="char:EOLhyphen"/>ably, and either in a paſſive or active ſort, obediently under your Govern<g ref="char:EOLhyphen"/>ment; ſo upon the occaſion of the late Reproaches caſt upon us, we do hereby once more ſincerely declare the ſame Reſolution to remain in us.</p>
+                  <p>And as touching matters of Religion, we judge what we have therein re<g ref="char:EOLhyphen"/>ceived, to be as pretious as ever, and ſo as much reſolved to continue the ſame (through Chriſt ſtrengthening us, as ever) which we humbly hope your Majeſty will not deem as an act of diſloyalty; and we are the rather induced to believe this, from your Majeſties own conſtruction of our <hi>Third Petition,</hi> where your words are thus recorded <hi>(viz.) That you were ſatis<g ref="char:EOLhyphen"/>fied your</hi> Lincolnſhire <hi>Petitioners were a peaceable People, and good Subjects;</hi> which tearm, <hi>good Subjects,</hi> (we conceive) could not have reſpect to our relinquiſhing our Religion (the Heads whereof were long before preſent<g ref="char:EOLhyphen"/>ed to your Princely hands) for your Majeſty knew right well, that at that very time we were in your Majeſty's common Goal of <hi>Lincoln,</hi> for that we could not conform to the Church of <hi>England</hi> as now eſtabliſhed.</p>
+                  <p>Wherefore in all humble Submiſſion, we do earneſtly beſeech your Ma<g ref="char:EOLhyphen"/>jeſty, that it may pleaſe you to haſten the Deliverance of your innocent ſuffering Subjects; who (though Innocent) are yet Impriſoned in your Majeſty's common Goal at <hi>Lincoln,</hi> as well as in ſeveral other Places of your Dominions: As alſo that the intollerable Burdens that lies upon us by the Proceedings of the Commiſſary Courts, may be removed, which truly are ſuch, as if your Majeſty do not remedy, will in a very ſhort time bring us, our poor Wives and innocent Children to utter Ruin; for we are al<g ref="char:EOLhyphen"/>ready by means thereof brought in great ſtraits. Our Neighbours and near Relations are afraid of us, and dare not deal with us, for fear of their Excommunications. But that we be not further tedious, we do in all Hu<g ref="char:EOLhyphen"/>millity preſent theſe our ſad Sufferings, Reſolutions and Supplications to your Princely Conſideration, humbly beſeeching your Majeſty, to grant your poor innocent ſuffering Subjects the Fruition of your Princely Fa<g ref="char:EOLhyphen"/>vours.</p>
+                  <closer>
+                     <dateline>From the Caſtle of <hi>Lincoln,</hi> 
+                        <date>January, 17th. 1662/3.</date>
+                     </dateline>
+                     <signed>And your poor Subjects as in Duty they are bound, ſhall ever pray, <hi>&amp;c.</hi>
+                        <list>
+                           <item>Tho. Grantham,</item>
+                           <item>Daniel Cheeſman,</item>
+                           <item>John Thorpe,</item>
+                           <item>Rich. Drewry,</item>
+                           <item>Rich. Crawford,</item>
+                           <item>John Kelſay,</item>
+                           <item>John Lupton,</item>
+                           <item>Val. James,</item>
+                           <item>Will. Burton,</item>
+                           <item>John Watts,</item>
+                           <item>Will. Lillie,</item>
+                           <item>Tho. Muxworth.</item>
+                        </list>
+In behalf of all concerned in this <hi>Petition.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>THis <hi>PETITION</hi> was delivered into His MAJESTIES own Hand, the ſecond day of this inſtant <hi>February;</hi> His <hi>Princely Anſwer</hi> was, <hi>That there ſhould be a ſpeedy and effectual Courſe taken for the Releaſement of Them in</hi> Lincolnſhire, <hi>and the reſt through<g ref="char:EOLhyphen"/>out the Nation.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
